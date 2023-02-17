@@ -5,7 +5,7 @@
  ## Πίνακας παραδοτέων
 | Εβδομάδα | Παραδοτέα | Λινκ προς το κάθε παραδοτέο | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- 
-| 1 | •[Παραδοτέο 1 ](https://github.com/p19verg/sw/blob/2019127/projects/2019127/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%B7) |  [Εισαγωγή](https://github.com/p19verg/sw/tree-save/2019127/projects/2019127#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%B7) | |
+| 1 | •[Παραδοτέο 1 ](https://github.com/p19verg/sw/blob/2019127/projects/2019127/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%B7) |  [Εισαγωγή](https://github.com/p19verg/sw/tree/2019127/projects/2019127#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%B7) | |
 | 2 | •[βιογραφικό και δημιουργία ομάδας] || |
 | 3 | •[Αίτημα ενσωμάτωσης στην ιστοσελίδα] | | |
 | 4 | •Άσκηση γραμμής εντολών |  | |
